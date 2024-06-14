@@ -10,6 +10,7 @@ Welcome to my Python learning journey! This repository is a collection of small,
 * **Day 4:** Favorite Book Showcase -  A simple script to display the title and author of my favorite book.
 * **Day 5:** Music Player - A basic music player that lets you play your favorite tunes. ( Sample music file provided )
 * **Day 6:** Dynamic Array (ctypes) -  Explore the implementation of a dynamic array in Python using the `ctypes` module for C-like performance.
+* **Day 7:** Snake water and gun game implimentaion by matrix
 
 ## Get Involved
 

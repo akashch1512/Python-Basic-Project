@@ -1,4 +1,4 @@
-# 100 Days of Code: Python Basics
+# Python Basics
 
 Welcome to my Python learning journey! This repository is a collection of small, daily projects I'm building to master the fundamentals of Python programming. Each project is a stepping stone towards becoming a proficient Python developer.
 
